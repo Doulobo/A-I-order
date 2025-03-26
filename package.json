@@ -1,0 +1,16 @@
+{
+  "name": "a-i-order",
+  "version": "1.0.0",
+  "main": "a-i-order.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.8.0",
+    "openai": "^4.71.0"
+  }
+}
